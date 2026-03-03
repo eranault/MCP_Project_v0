@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\renau\OneDrive\Bureau\MCP\MCP_Project_v0\venv
+set VIRTUAL_ENV=C:\Users\renau\OneDrive\Bureau\MCP\MCP_Project_v0\my-mcp-agent\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
